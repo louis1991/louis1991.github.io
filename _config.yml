@@ -3,23 +3,23 @@ markdown: redcarpet
 highlighter: rouge
 
 # Site settings
-title: "七风阁"
+title: "黑曼巴"
 description: > # this means to ignore newlines until "email:"
-   这里是戚风的技术博客,数据科学|数据可视化|R....
+   篮球赛场，博客舞台，“黑曼巴”精神永驻...
 
-email: chiffon.lang@gmail.com
+email: lipengxiang2015@163.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "http://ww3.sinaimg.cn/large/005yyi5Jjw1eodxs649joj30ps0h7tli.jpg"
+cover: "http://wallpaper.pconline.com.cn/picsource/21969_5.html"
 
-name: 'Chiffon'
-author: 'Chiffon'
+name: 'louis'
+author: 'louis'
 author_image: "/assets/images/df_logo.jpg"
 
 paginate:	5
 
-url: "http://chiffon.gitcafe.io" # the base hostname & protocol for your site
+url: "http://louis1991.gitcafe.io" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
@@ -41,7 +41,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/lchiffon
+    url:	https://github.com/louis1991
     desc:	Fork me on github
     share_url:
     share_title:
