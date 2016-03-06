@@ -1,0 +1,56 @@
+# Build settings
+markdown: redcarpet
+highlighter: rouge
+
+# Site settings
+title: "七风阁"
+description: > # this means to ignore newlines until "email:"
+   这里是戚风的技术博客,数据科学|数据可视化|R....
+
+email: chiffon.lang@gmail.com
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+# blog cover
+cover: "http://ww3.sinaimg.cn/large/005yyi5Jjw1eodxs649joj30ps0h7tli.jpg"
+
+name: 'Chiffon'
+author: 'Chiffon'
+author_image: "/assets/images/df_logo.jpg"
+
+paginate:	5
+
+url: "http://chiffon.gitcafe.io" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+
+
+ # - icon:	twitter
+  #  url:	https://twitter.com/dirkfabisch
+  #  desc: Follow me on twitter
+  # share_url: http://twitter.com/share
+  #  share_title: ?text=
+  #  share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/lchiffon
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
+highlighter :  true
