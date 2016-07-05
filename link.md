@@ -9,9 +9,9 @@ permalink: /link/
 
 [数据科学与R和python](xccds1977.blogspot.com/ )
 
-[郎大为](chiffon.github.io)
+[郎大为](lchiffon.github.io)
 
-[李舰](http://jianl.org/)
+[李舰](http://jianli.org/)
 
 [落园](http://www.loyhome.com/)
 
